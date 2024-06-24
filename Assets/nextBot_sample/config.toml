@@ -1,0 +1,7 @@
+﻿elements = [
+    "asset://nextBot_sample/funny_nextbot.xml",
+]
+
+toybox_items = [
+    { category = "Bot", name = "AJin", icon = "asset://nextBot_sample/nb_ajinge1.png", description = "Nextbot Ajinge", element = "nb_ajinge" },
+]

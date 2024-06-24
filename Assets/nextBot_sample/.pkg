@@ -1,0 +1,5 @@
+﻿[[bundle]]
+patterns = ["**/*.prefab", "**/*.png","**/*.mp3"]
+
+[[file]]
+patterns = ["**/*.xml","**/*.toml"]
