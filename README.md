@@ -10,3 +10,6 @@ Unity Version: 2022.3.14f1
 * Use the Dev Tools to build your content.
 * Copy the built resources to the Sandbox folder within the game directory to run and test.
 * Use the Publish Tool to upload your mod to the Steam Workshop.
+
+### Demonstration Video
+https://youtu.be/L8GPd9Hu5qY
