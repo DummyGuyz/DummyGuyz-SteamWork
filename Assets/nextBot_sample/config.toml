@@ -3,5 +3,5 @@
 ]
 
 toybox_items = [
-    { category = "Bot", name = "AJin", icon = "asset://nextBot_sample/nb_ajinge1.png", description = "Nextbot Ajinge", element = "nb_ajinge" },
+    { category = "Bot", name = "dummy_face", icon = "asset://nextBot_sample/dummy_face.png", description = "dummy_face", element = "dummy_face" },
 ]

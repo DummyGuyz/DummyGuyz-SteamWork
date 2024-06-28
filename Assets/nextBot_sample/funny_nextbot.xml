@@ -1,1 +1,1 @@
-﻿<nb_ajinge inherit="nextbot" images="[asset://nextBot_sample/nb_ajinge1.png, asset://nextBot_sample/nb_ajinge2.png, asset://nextBot_sample/nb_ajinge3.png]" fps="3"/>
+﻿<dummy_face inherit="nextbot" images="[asset://nextBot_sample/dummy_face.png]" />
