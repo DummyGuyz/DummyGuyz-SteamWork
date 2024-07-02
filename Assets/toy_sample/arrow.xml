@@ -1,0 +1,5 @@
+﻿<arrow inherit="toy" 
+src="asset://toy_sample/pfb_arrow.prefab"
+physics_body_type="Dynamic"
+physics_shape_type="Compound"
+/>

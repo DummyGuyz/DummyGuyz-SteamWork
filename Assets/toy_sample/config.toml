@@ -1,0 +1,7 @@
+﻿elements = [
+    "asset://toy_sample/arrow.xml",
+]
+
+toybox_items = [
+    { category = "Model", name = "arrow", icon = "asset://toy_sample/arrow.png", description = "arrow", element = "arrow" },
+]
